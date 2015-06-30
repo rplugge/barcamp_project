@@ -1,0 +1,66 @@
+body {
+  font-family: Georgia, serif;
+}
+
+#front {
+  background-color: #2c4947;
+  width: 370px;
+}
+
+#middle {
+  position: relative;
+  left: 50px;
+}
+
+#footer {
+  background-color: #536563;
+  width: 370px;
+  position: relative;
+  top: -10px;
+}
+
+#talk_list {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #709b4b;
+}
+
+#talk_list p {
+  color: #71502b;
+  font-size: 15px;
+}
+
+#talk_list h4 {
+  font-size: 20px;
+}
+
+.top_space {
+  margin-top: 50px;
+}
+
+.info {
+  width: 320px;
+  color: #536563;
+  line-height: 30px;
+  position: relative;
+  left: 10px;
+}
+
+.info p {
+  font-size: 18px;
+}
+
+.center {
+  text-align: center;
+}
+
+
+#dash_line {
+  height: 10px;
+  background-image: url("https://raw.githubusercontent.com/omahacodeschool/class-drakon/master/06-30-css-barcamp/assets/part2/dash-horizontal.png?token=ALpfS11mJ-aLBpsRN9bBDjSdn22u-6Liks5Vm_xxwA%3D%3D");
+  background-repeat: repeat-x;
+}
+
+.top_border {
+  border-style: solid;
+  border-top: #ff0000;
+}
